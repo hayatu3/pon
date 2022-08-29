@@ -1,3 +1,5 @@
+//2022/8/29 unityで等速直線運動、壁で跳ね返る
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
